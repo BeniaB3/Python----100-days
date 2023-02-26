@@ -6,8 +6,6 @@
 
 <h2> 📚 Works 📚</h2>
 
-**  **
-
 - ***Day 2 -*** [Data Types, BMI Calculator, Life in Weeks, Tip Calculator](https://github.com/BeniaB3/Python----100-days/tree/main/day2)
 
 
