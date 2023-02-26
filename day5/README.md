@@ -3,11 +3,13 @@
 
 ## Average Height
 This program calculates the average height from a List of heights.
+
 ![ezgif-4-0733755dea](https://user-images.githubusercontent.com/104169955/221437487-9ee4c167-7681-4f8a-b586-ca09f5120a29.gif)
 
 
 ## High Score
 This program calculates the highest score from a List of scores.
+
 ![ezgif-2-3ea218b1f8](https://user-images.githubusercontent.com/104169955/221437600-23802dc9-c0fb-4ab3-8449-4ddcbdee9cfa.gif)
 
 
