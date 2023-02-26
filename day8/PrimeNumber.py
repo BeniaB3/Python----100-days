@@ -1,7 +1,6 @@
 # Write your code below this line 👇
 import math
 def prime_checker(number):
-    #zrob pierwiastek z liczby i zaokraglij w gore
     element = math.ceil(math.sqrt(number))
     for i in range(2, element):
         if number % i == 0:

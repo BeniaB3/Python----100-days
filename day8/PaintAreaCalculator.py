@@ -4,11 +4,6 @@ def paint_calc(height, width, cover):
     number_of_cans = math.ceil((height * width) / cover)
     print(f"You'll need {number_of_cans} cans of paint.")
 
-
-
-
-
-
 #Write your code above this line 👆
 # Define a function called paint_calc() so that the code below works.
 
