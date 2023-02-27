@@ -33,6 +33,9 @@
 - ***Day 11 -*** [Blackjack](https://github.com/BeniaB3/Python----100-days/tree/main/day11)
 
 
+- ***Day 12 -*** [Number Guessing Game](https://github.com/BeniaB3/Python----100-days/tree/main/day12)
+
+
 
 
 
