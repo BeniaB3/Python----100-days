@@ -36,6 +36,9 @@
 - ***Day 12 -*** [Number Guessing Game](https://github.com/BeniaB3/Python----100-days/tree/main/day12)
 
 
+- ***Day 13 -*** [Debbuging](https://github.com/BeniaB3/Python----100-days/tree/main/day13)
+
+
 
 
 
