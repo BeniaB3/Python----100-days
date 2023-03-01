@@ -64,6 +64,8 @@ def game():
         else:
             print(f"Sorry, that's wrong. Final score: {score}")
             do_you_want_to_play = input("Do you want to play a game of Higher Lower? Type 'y' or 'n': ")
+            if do_you_want_to_play == 'y':
+                person1 = random_person()
             score = 0
     print("Goodbye!")
 
