@@ -1,8 +1,14 @@
+import os
+from turtle import clear
+
 import art
 import game_data
 import random
+import os
 
 print(art.logo)
+
+
 
 
 def random_person():
@@ -54,6 +60,7 @@ def game():
     do_you_want_to_play = input("Do you want to play a game of Higher Lower? Type 'y' or 'n': ")
     person1 = random_person()
     while do_you_want_to_play == 'y':
+        os.system('cls')
         person2 = random_person()
         person2 = compare(person1, person2)
         answer = print_person(person1, person2)
@@ -64,6 +71,7 @@ def game():
         else:
             print(f"Sorry, that's wrong. Final score: {score}")
             do_you_want_to_play = input("Do you want to play a game of Higher Lower? Type 'y' or 'n': ")
+
             if do_you_want_to_play == 'y':
                 person1 = random_person()
             score = 0
