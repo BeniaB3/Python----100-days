@@ -42,6 +42,9 @@
 - ***Day 14 -*** [Higher-Lower game](https://github.com/BeniaB3/Python----100-days/tree/main/day14)
 
 
+- ***Day 15 -*** [Coffee Machine](https://github.com/BeniaB3/Python----100-days/tree/main/day15)
+
+
 
 
 
