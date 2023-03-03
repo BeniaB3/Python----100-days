@@ -14,6 +14,7 @@ def get_order():
 
 
 def make_order(c_order):
+    """Make order"""
     if c_order == 'off':
         return False
     elif c_order == 'report':
