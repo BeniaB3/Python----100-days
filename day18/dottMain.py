@@ -26,5 +26,3 @@ for dot_count in range(1, number_of_dots + 1):
 
 screen = t.Screen()
 screen.exitonclick()
-
-
