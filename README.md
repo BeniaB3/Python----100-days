@@ -51,6 +51,8 @@
 - ***Day 17 -*** [OOP - Quiz](https://github.com/BeniaB3/Python----100-days/tree/main/day17)
 
 
+- ***Day 19 -*** [OOP - Turtle Race](https://github.com/BeniaB3/Python----100-days/tree/main/day19)
+
 
 
 
