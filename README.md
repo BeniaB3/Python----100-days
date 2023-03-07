@@ -51,10 +51,6 @@
 - ***Day 17 -*** [OOP - Quiz](https://github.com/BeniaB3/Python----100-days/tree/main/day17)
 
 
-- ***Day 18 -*** [Dott art](https://github.com/BeniaB3/Python----100-days/tree/main/day18)
-
-
-
 
 
 
