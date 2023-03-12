@@ -53,6 +53,8 @@
 
 - ***Day 19 -*** [OOP - Turtle Race](https://github.com/BeniaB3/Python----100-days/tree/main/day19)
 
+- ***Day 20 and 21 -*** [OOP - Snake game](https://github.com/BeniaB3/Python----100-days/tree/main/day20)
+
 
 
 
