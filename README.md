@@ -60,6 +60,9 @@
 - ***Day 22 -*** [OOP - Pong game](https://github.com/BeniaB3/Python----100-days/tree/main/day22)
 
 
+- ***Day 23 -*** [OOP - Turtle Crossing](https://github.com/BeniaB3/Python----100-days/tree/main/day23)
+
+
 
 
 
