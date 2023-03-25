@@ -1,8 +1,11 @@
-with open("my_file.txt") as file:
-    contents = file.read()
-    print(contents)
+list = []
 
-with open("new_file.txt", mode="w") as file:
-    file.write("\nNew text.")
+with (open("./Input/Names/invited_names.txt", 'r')) as file:
+    for line in file:
+        list.append(line.strip())
 
-
+with (open("./Input/Letters/starting_letter.txt", 'r')) as file:
+    letter = file.read()
+    for name in list:
+        with (open(f"./Output/ReadyToSend/letter_for_{name}.txt", 'w')) as file:
+            file.write(letter.replace("[name]", name))
