@@ -24,12 +24,15 @@ def already_quess_write(state):
     with open("already_quess.txt", "a") as file:
         file.write(state + ",")
 
+
 def update_picture(state_data):
-   t = turtle.Turtle()
-   t.hideturtle()
-   t.penup()
-   t.goto(int(state_data.x), int(state_data.y))
-   t.write(state_data.state.item())
+    t = turtle.Turtle()
+    t.hideturtle()
+    t.penup()
+    t.goto(int(state_data.x), int(state_data.y))
+    t.write(state_data.state.item())
+
+
 
 
 class us_game:
