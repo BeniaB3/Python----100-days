@@ -65,6 +65,8 @@
 
 - ***Day 24 -*** [Files - list for party](https://github.com/BeniaB3/Python----100-days/tree/main/day24)
 
+- ***Day 25 -*** [us states game](https://github.com/BeniaB3/Python----100-days/tree/main/day25)
+
 
 
 
