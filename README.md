@@ -67,7 +67,7 @@
 
 - ***Day 25 -*** [us states game](https://github.com/BeniaB3/Python----100-days/tree/main/day25)
 
-
+- ***Day 26 -*** [NATO Alphabet](https://github.com/BeniaB3/Python----100-days/tree/main/day26)
 
 
 
