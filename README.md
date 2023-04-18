@@ -69,5 +69,7 @@
 
 - ***Day 26 -*** [NATO Alphabet](https://github.com/BeniaB3/Python----100-days/tree/main/day26)
 
+- ***Day 27 -*** [GUI - miles to km](https://github.com/BeniaB3/Python----100-days/tree/main/day27)
+
 
 
