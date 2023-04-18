@@ -13,7 +13,6 @@ def change_label3():
 
 window = Tk()
 window.title("Mile to Km Converter")
-window.minsize(width=300, height=100)
 window.config(padx=100, pady=50)
 
 miles_input = Entry(width=10)
