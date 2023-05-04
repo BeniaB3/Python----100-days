@@ -78,3 +78,8 @@
 - ***Day 28 -*** [GUI - Pomidoro](https://github.com/BeniaB3/Python----100-days/tree/main/day28)
 
 - ***Day 29 -*** [GUI - Password Manager](https://github.com/BeniaB3/Python----100-days/tree/main/day29)
+
+- ***Day 30 -*** [GUI - NATO](https://github.com/BeniaB3/Python----100-days/tree/main/day30)
+
+- ***Day 31 -*** [GUI - Flash Card](https://github.com/BeniaB3/Python----100-days/tree/main/day31)
+
